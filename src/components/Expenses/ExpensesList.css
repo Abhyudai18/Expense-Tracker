@@ -1,0 +1,15 @@
+.expenses-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .expenses-list__fallback {
+    color: white;
+    text-align: center;
+  }
+
+  #expenseText{
+    font-family: 'Times New Roman', Times, serif ;
+    color: white;
+    margin-left: 2.5%;
+  }
